@@ -53,10 +53,12 @@ With the high number of variables (wavelengths) in the raw data, there was insuf
 - **Visualization**:
 
 Paper Figure 5
+
 ![Reflectance and tetracolor space](images/Figure5_reflectanc_pol_tetracolor.png)
 
 
 Paper Figure 6:
+
 ![Specimen and wing model spectra and polarization](images/Figure6_pol_spectral_differences_and_wing_models.png)
 
 
@@ -70,6 +72,7 @@ We found that PD ommatidia did indeed increase significantly with increasing eye
 - **Visualization**:
 
 Paper Figure 7:
+
 ![Ommatidial Alignment](images/Figure7_EDPD_ommatidia_testing.png)
 
 
