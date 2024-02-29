@@ -19,9 +19,9 @@ The following is a step-by-step guide through the statistical analyses performed
 - **Objective**: In this analysis I sought to determine if *Jalmenus evagoras* can discriminate between visual stimuli based on polarization content, focusing on how they respond to colored wing models that varied in polarization content in a mate-attraction context.
 - **Methods**:
 In my first real field experience in grad school, my PI, Naomi Pierce, and I travelled to Ebor, New South Wales, Australia, where *Jalmenus evagoras* is most common. Naomi had been working with Gary Bernard, who studied the vision of this species, for several years already, and his data seemed to suggest that this species should be able to make use of polarized light cues, based on their unique eye physiology (more on that below). Our task was to determine whether we could get them to respond differently to light that varied only in polarization content, and whether these preferences varied with color. As this species (and many lycaenids) don't behave well under lab conditions, we journeyed to the field. We had never tried any sort of rigorous behavioral experiment with free-flying individuals in the field before, though, and we had limited funding for extended field expeditions, so I had spent the preceding two weeks working with an engineer to come up with half a dozen different kinds of ways to display polarized and unpolarized butterfly wing models hoping that at least one them would get them to respond.
-![Fieldwork in Ebor, NSW](Images/Australia_fieldwork_compilation.png)
+![Fieldwork in Ebor, NSW](images/Australia_fieldwork_compilation.png)
 Fieldwork in Ebor was pretty relaxed: drive-by fieldwork I like to call it because you can cruise around in a car and see the host plants where the caterpillars and their attending ant colonies are pretty easily from the road. We identified a good 15 different focal sites that way and got to work trying our models.Fortunately for us, our wing models on our robotic wing beating devices attracted an incredible amount of attention, and we developed an assay on the fly where we would set out our paired robotic wing beaters, one polarized, one depolarized, and count the number of times individuals clearly approached one or the other. We also kept track of the overall level of activity and whether it was sunny (butterflies out) or shaded (no activity). Unfortunately for us, about as soon as we had gotten this assay developed, we were rained out of the second of our brief two weeks in the field and had to return home. Frustrated at being tantalizingly close to getting actual results from a behavioral experiment with Lycaenid butterflies in the field (no mean feat, given how intractable this whole family of butterflies often is!), we actually booked flights for Ebor only one week later, and managed to catch the last two weeks of the 1-2 month field season there, collecting data for a solid 10-12 sites for each of three mock wing colors (red, blue and yellow). This despite spraining my ankle halfway through and having to postpone our return flights after we both spent days of fever illness with Norovirus.
-![Mock wing construction details](Images/Figure_2_flapper_construction_details.png)
+![Mock wing construction details](images/Figure_2_flapper_construction_details.png)
 I considered using each response as the unit of replication, but because we had no way of knowing which of the dozen or so individuals present at each site would respond over a standard 20 minute choice experiment, and thus whether these were truly 'independent' events from a statistical standpoint, I treated each site as the unit of replication, summing the total interactions with polarized or depolarized at a site and then taking the difference between them, allowing for a simple one-sample two-sided t-test to determine whether there were significantly more interactions with polarized or depolarized wing models.
 
 - **Results**:
@@ -29,7 +29,7 @@ We found that they did to our initial surprise, the butterflies exhibited subtle
 
 - **Visualization**:
 - Paper Figure 4:
-![Behavioral results](Images/Figure_4_behavioral_field_results.png)
+![Behavioral results](images/Figure_4_behavioral_field_results.png)
 ### Analysis 2: Reflectance Spectrophotometry and Polarization Imaging
 
 - **Objective**: To quantify the spectral and polarization differences in wing reflectance between male and female Jalmenus evagoras, and how these differences might be perceived by their visual system.
@@ -47,10 +47,10 @@ With the high number of variables (wavelengths) in the raw data, there was insuf
 
 - **Visualization**:
 Paper Figure 5
-![Reflectance and tetracolor space](Images/Figure5_reflectanc_pol_tetracolor.png)
+![Reflectance and tetracolor space](images/Figure5_reflectanc_pol_tetracolor.png)
 
 Paper Figure 6:
-![Specimen and wing model spectra and polarization](Images/Figure6_pol_spectral_differences_and_wing_models.png)
+![Specimen and wing model spectra and polarization](images/Figure6_pol_spectral_differences_and_wing_models.png)
 
 ### Analysis 3: Ommatidial Alignment Measurement
 
@@ -61,7 +61,7 @@ Paper Figure 6:
 We found that PD ommatidia did indeed increase significantly with increasing eye patch elevation (t=19.885, P=0.0001; Fig 7E below), as expected from the literature. We also found that females (yellow bars and points) tended to have more PD overall (t=7.977, P=0.012) , and especially at the lower eye elevations with which they would most likely observe male counterparts in mating interactions (Fig.7E below). 
 - **Visualization**:
 Paper Figure 7:
-![Ommatidial Alignment](Images/Figure7_EDPD_ommatidia_testing.png)
+![Ommatidial Alignment](images/Figure7_EDPD_ommatidia_testing.png)
 
 
 For further details on the methodology, datasets, and analyses, please refer to our published paper and the resources available on Dryad and Zenodo.
